@@ -5,12 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.12",
-    "uuid": "^8.3.2"
+    "nodemon": "^2.0.12"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon ./routes/server.js"
+    "test": "nodemon ./routes/server.js",
+    "start": "node ./routes/server.js"
   },
   "repository": {
     "type": "git",
