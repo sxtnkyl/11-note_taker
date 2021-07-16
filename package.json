@@ -1,0 +1,26 @@
+{
+  "name": "11-NoteTaker",
+  "version": "1.0.0",
+  "description": "Write a note taking tool using express and a JSON database",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon ./routes/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxtnkyl/11-note_taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxtnkyl/11-note_taker/issues"
+  },
+  "homepage": "https://github.com/sxtnkyl/11-note_taker#readme"
+}
