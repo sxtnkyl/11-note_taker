@@ -1,10 +1,10 @@
 # 11 Express.js: Note Taker
 
-![Check it.](./Assets/ss/PNG)
+![Check it.](./Assets/ss.PNG)
 
 Homework which requires you to use Express to generate notes . This app is deployed on heroku.
 
-![Full running app](https://)
+![Full running app](https://ksexys-note-taker.herokuapp.com/)
 
 and will feature dynamically updated HTML powered by nodejs, JavaScript, and writing promises you can't keep. Technical challenges include:
 
